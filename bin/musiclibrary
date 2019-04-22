@@ -3,5 +3,5 @@
 require_relative '../config/environment'
  
 require_all 'lib'
-require_relative '../lib/concerns/
+require_relative '../lib/concerns/findable'
 MusicLibraryController.new.call
